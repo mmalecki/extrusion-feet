@@ -21,6 +21,7 @@ aren't an issue.
 |:----------------|------------:
 | foot            |          4 |
 | M4 3030 T-nut   |          4 |
+| M4x10           |          4 |
 
 ### Quick build
 Download the model from [printables.com](https://www.printables.com/model/328141-prusa-i3-t-nut-mounted-hard-feet).
