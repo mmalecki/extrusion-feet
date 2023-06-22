@@ -1,4 +1,7 @@
-# Prusa i3 hard feet
+# Extrusion feet
+Generate feet for aluminium extrusions with OpenSCAD.
+
+## Prusa i3 hard feet
 It is widely accepted that, if using a heavy base (such as a paver stone)
 for your Prusa i3, it is better to use hard feet that are able to transfer
 vibrations onto the mass, as opposed to the vibration-dampening stock feet.
