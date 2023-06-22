@@ -8,9 +8,9 @@ loose_fit = 0.25;
 
 /* [ Preset ] */
 // Presets for easy foot generation:
-preset = "3030";  // ["3030", "2020", "prusa-i3", "custom"]
+preset = "custom";  // ["3030", "2020", "prusa-i3", "custom"]
 
-// These are the defaults for a 3030 extrusion:
+// These are the defaults for a Prusa i3 feet:
 
 /* [ Custom profile ] */
 // Width of the printer profile:
